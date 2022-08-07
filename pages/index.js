@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app! #brewwithakshay" />
+        <a href="www.budget.coffeebean.tech">Budget App </a>
         
       </main>
 
